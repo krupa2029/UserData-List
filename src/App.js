@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import AddUser from "./Components/Users/AddUser";
 
 function App() {
